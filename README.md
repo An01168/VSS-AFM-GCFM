@@ -41,7 +41,9 @@ $VSS-AFM-GCFM_ROOT/VSS-Dataset-BasicModel/data
 ### Training
 
 1.cd $VSS-AFM-GCFM_ROOT/VSS-Dataset-BasicModel
+
 2.Download pretrained models [BaiduYun(Access Code:zjeu)]( https://pan.baidu.com/s/15lJ2-iMADEoPuqN1_H6Xyw), and put them in a folder `./ckpt`.
+
 3.Training requires 4 Nvidia GPUs.
 ````bash
 bash ./train.sh
