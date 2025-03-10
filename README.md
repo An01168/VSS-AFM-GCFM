@@ -1,7 +1,7 @@
 # VSS-AFM-GCFM
 Dual Temporal Context Modeling for Video Semantic Segmentation
 
-This repository is the official implementation of "Dual Temporal Context Modeling for Video Semantic Segmentation” ( This paper is under submission, we will show it later)
+This repository is the official implementation of "Improving Video Semantic Segmentation via Adaptive and Global Temporal Contexts Modeling” ( This paper is under submission, we will show it later)
 
 ## Install & Requirements
 Requirements: `PyTorch >= 1.4.0, CUDA >= 10.0, and Python==3.8`
