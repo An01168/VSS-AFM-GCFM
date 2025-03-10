@@ -1,5 +1,5 @@
 # VSS-AFM-GCFM
-Dual Temporal Context Modeling for Video Semantic Segmentation
+Improving Video Semantic Segmentation via Adaptive and Global Temporal Contexts Modeling
 
 This repository is the official implementation of "Improving Video Semantic Segmentation via Adaptive and Global Temporal Contexts Modeling” ( This paper is under submission, we will show it later)
 
